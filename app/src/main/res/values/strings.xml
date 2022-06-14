@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculatrice</string>
+    <string name="app_title">Calculatrice</string>
+    <string name="signIn_Google">Sign in with Google+</string>
+    <string name="signIn_Twitter">Sign in with Twitter</string>
+    <string name="signIn_Facebook">Sign in with Facebook</string>
+</resources>
